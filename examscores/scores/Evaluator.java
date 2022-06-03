@@ -1,4 +1,4 @@
-package scores;
+package examscores.scores;
 
 public class Evaluator {
     
